@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Hudson Mello</h1>
-<h3 align="center">Analista de Business Intelligence, apaixonado por dados, inteligência e negócios.</h3>
+<h3 align="center">Analista de Business Intelligence, Orientado a dados, inteligência e negócios.</h3>
 
 - 🔭Atualmente sou analista de BI no **Hospital do Câncer de Londrina**
 
