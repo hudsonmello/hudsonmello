@@ -7,11 +7,11 @@
 
 - 👨‍💻 Meu linkedIn é [https://www.linkedin.com/in/hudsonmello/](https://www.linkedin.com/in/hudsonmello/)
 
-- 💬 Gosto de conversar sobre **SQL, banco de dados, BI, Python, Power BI, Linguagem R, ETL, Análise de Dados, Dataviz**
+- 💬 Gosto de conversar sobre **BI, Análise de Dados, Ciência de dados, Política, Religião, Esportes, Educação, Produtividade e Conhecimentos Gerais**
 
 - 📫 Meu e-mail é **hudsonmello03@gmail.com**
 
-- ⚡ Curiosidade: **Sou baterista (kkk)**
+- ⚡ Curiosidade: **Sou Maratonista e baterista (kkk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
